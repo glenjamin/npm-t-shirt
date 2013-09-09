@@ -1,0 +1,15 @@
+{
+  "name": "t-shirt",
+  "version": "1.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "nodeconfeu"
+  ],
+  "author": "Glen Mailer",
+  "license": "MIT"
+}
