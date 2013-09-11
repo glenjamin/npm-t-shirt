@@ -1,1 +1,3 @@
-    node index.js
+
+    npm install t-shirt
+    npm start t-shirt
