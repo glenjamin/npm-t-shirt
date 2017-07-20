@@ -1,11 +1,13 @@
 
 var shirt = "\n\
-                ________________\n\
-               ||====\\\\__//====||\n\
-               |j___  `--'  ___|j\n\
-                   |        |\n\
-                   |        |   hjw\n\
-                   |________|\n\
+                ____________________\n\
+               ||======\\____/======||\n\
+               |j___    `--'     __|j\n\
+                   |   there's   |\n\
+                   |   an npm    |\n\
+                   | package for |\n\
+                   | everything  |\n\
+                   |_____________|\n\
 ";
 // Via http://www.retrojunkie.com/asciiart/clothing/shirts.htm
 
